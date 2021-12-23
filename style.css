@@ -113,7 +113,7 @@ body{
 }
 
 .cover{
-    background-image: url('/img/frontcover.png');
+    background-image: url('./img/frontcover.png');
     background-color: #cccccc;
     height: 80vw;
     background-position: center;
