@@ -233,7 +233,7 @@ footer{
     margin-top: 15vw;
     margin-bottom: 5vw;
     border-radius: 1.5vw;
-    height: 60vw;
+    height: 70vw;
     background-image: linear-gradient(to bottom,rgb(63, 63, 63),rgb(51, 51, 51),black);
 }
 
@@ -246,7 +246,7 @@ footer{
 
 .company-footer h2{
     font-size: 1.8vw;
-    letter-spacing: 2px;
+    letter-spacing: .2vw;
 }
 
 .bar{
@@ -273,7 +273,7 @@ footer{
     margin-top: 6vw;
     display: flex;
     font-size: 1.2vw;
-    line-height: 2rem;
+    line-height:3vw;
     align-content: center;
     justify-content: space-evenly;
 }
